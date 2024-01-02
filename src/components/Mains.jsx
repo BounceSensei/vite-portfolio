@@ -5,7 +5,7 @@ import {FaTwitter,FaFacebook, FaInstagram} from 'react-icons/fa';
 const Mains = () => {
     return (
         <div id='main'>
-            <img className='w-full h-screen object-cover object-center' src='../Assets/background.png' alt='/'/>
+            <img className='w-full h-screen object-cover object-center' src='Assets/background.png' alt='Background'/>
             <div className='w-full h-screen absolute top-0 left-0 bg-white/15'>
                 <div className='max-w-[700px] m-auto w-full h-full flex flex-col justify-center lg:items-start items-center'>
                     <h1 className='sm:text-5xl text-4xl font-bold text-gray-800'>I'm Robinson Domingo</h1>
