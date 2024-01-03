@@ -1,6 +1,8 @@
 import { useState } from 'react'
 import Sidenav from './components/Sidenav';
 import Mains from './components/Mains.jsx';
+import Work from './components/Work.jsx'
+import Favorites from './components/Favorites.jsx'
 
 
 function App() {
@@ -10,6 +12,8 @@ function App() {
     <>
     <Sidenav/>
     <Mains/>
+    <Work/>
+    <Favorites />
     
        
     </>
