@@ -1,6 +1,6 @@
 import React from 'react';
 import { TypeAnimation } from 'react-type-animation';
-import {FaTwitter,FaFacebook, FaInstagram} from 'react-icons/fa';
+import {FaTwitter,FaFacebook, FaInstagram, FaGithub} from 'react-icons/fa';
 import BakcgroundImg from '../assets/background.jpg'
 
 const Mains = () => {
@@ -35,6 +35,7 @@ const Mains = () => {
                         <FaTwitter className='cursor-pointer' size={20}/>
                         <FaFacebook className='cursor-pointer' size={20}/>
                         <FaInstagram className='cursor-pointer' size={20}/>
+                        <FaGithub className='cursor-pointer' size={20}/>
                     </div>
                 </div>
             </div>
