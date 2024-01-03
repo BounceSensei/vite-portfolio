@@ -29,7 +29,7 @@ const Sidenav = () => {
                             <span className='pl-4'>Work</span>
                         </a>
                         <a 
-                        href="#favorite" 
+                        href="#favorites" 
                         className='w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 hover:scale-110 ease-in duration-200'>
                             <GrFavorite size={20}/>
                             <span className='pl-4'>Favorites</span>
@@ -61,7 +61,7 @@ const Sidenav = () => {
                     <a href="#work" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300'>
                         <MdWork size={20}/>
                     </a>
-                    <a href="#favorite" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300'>
+                    <a href="#favorites" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300'>
                         <GrFavorite size={20}/>
                     </a>
                     <a href="#main" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300'>
