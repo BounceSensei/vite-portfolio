@@ -13,7 +13,7 @@ const Favorites = () => {
             <p>
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
                 Porro illum enim ex obcaecati ratione debitis soluta molestias dolores nihil voluptates sunt 
-                nulla impedit fugiat provident, commodi dolorem! Similique, itaque nulla.
+                nulla impedit fugiat provident, commodi dolorem! Similique, itaque nulla.hays
             </p>
             <div className='grid sm:grid-cols-2 gap-12'>
                 <FavoritesItem img={CookiesImg} title='Favorite Food' NameFavorite='Cookies'/>
