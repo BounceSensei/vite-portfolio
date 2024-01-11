@@ -10,10 +10,14 @@ const Favorites = () => {
     return (
         <div id='favorites' className='max-w-[1040] m-auto md:pl-20 p-4 py-16'>
             <h1 className='text-4xl font-bold text-center text-[#001b5e]'>Favorites</h1>
-            <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-                Porro illum enim ex obcaecati ratione debitis soluta molestias dolores nihil voluptates sunt 
-                nulla impedit fugiat provident, commodi dolorem! Similique, itaque nulla.hays
+            <p className='text-2xl text-center pt-2 pb-5'>
+            "I enjoy savoring cookies as I immerse myself in my favorite anime, 
+            Hunter x Hunter. When it comes to my college days, Dota stands out 
+            as my favorite game. I'm passionate about creating automated 
+            projects and scripting tools, and Python is my go-to language for 
+            bringing these ideas to life. Additionally, I delve into frontend 
+            web development using React, a framework through which I crafted 
+            my portfolio."
             </p>
             <div className='grid sm:grid-cols-2 gap-12'>
                 <FavoritesItem img={CookiesImg} title='Favorite Food' NameFavorite='Cookies'/>
