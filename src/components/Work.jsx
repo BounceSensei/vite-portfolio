@@ -24,7 +24,7 @@ const data =[
           "year": 2020,
           "title": "Technical Support within the ICT division.",
           "duration": "2 years",
-          "details": " involves providing assistance, troubleshooting, and solutions for various technical issues related to information and communication systems."
+          "details": "Involves providing assistance, troubleshooting, and solutions for various technical issues related to information and communication systems."
         },
         {
           "year": 2023,
